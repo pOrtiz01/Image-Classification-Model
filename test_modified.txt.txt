@@ -1,0 +1,1 @@
+python test.py  --l encoder.pth --s classifier.pth/classifier_iter_20.pth --d cuda
